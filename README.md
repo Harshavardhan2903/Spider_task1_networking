@@ -10,8 +10,8 @@ General:
 
 https://docs.google.com/document/d/10FU6fasnoXynhf3awS6UHmGf3NXLjkrlTwVjB0fzFSg/edit?usp=sharing
 
-This link contains the basics of terminal part . scrrenshots have been included here . please check that .
-The next part of bus , star topology is the packet tracer file attached as task 1
+This link contains the basics of terminal part . screenshots have been included here . please check that .
+The next part of star topology is the packet tracer file attached as task 1 . Have configured the devices manually and ping is working .
 
 
 
